@@ -1,5 +1,5 @@
 
-#TEMPLATING LINKS
+# TEMPLATING LINKS
 
 [Handlebars](https://handlebarsjs.com/)
 [Embedded JavaScript Syntax](https://ejs.co)
@@ -7,7 +7,7 @@
 
 [When NOT to use Handlebars](https://handlebarsjs.com/installation/when-to-use-handlebars.html)
 
-#LINKS OTHER STUDENTS FOUND USEFUL
+# LINKS OTHER STUDENTS FOUND USEFUL
 
 [Faith's Super Useful HBS YouTube Tutorial (30 min)](https://www.youtube.com/watch?v=4HuAnM6b2d8)
 
