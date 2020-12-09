@@ -2,7 +2,9 @@
 # TEMPLATING LINKS
 
 [Handlebars](https://handlebarsjs.com/)
+
 [Embedded JavaScript Syntax](https://ejs.co)
+
 [Pug](https://pugjs.org/api/getting-started.html)
 
 [When NOT to use Handlebars](https://handlebarsjs.com/installation/when-to-use-handlebars.html)
