@@ -1,4 +1,3 @@
-
 # TEMPLATING LINKS
 
 [Handlebars](https://handlebarsjs.com/)
@@ -16,3 +15,5 @@
 [Linda's handy HBS Guide](https://medium.com/@thejasonfile/creating-templates-with-handlebars-js-15c2fa45859)
 
 [Ken's Stupendous HBS Article](https://medium.com/@BuildMySite1/javascript-templating-what-is-templating-7ff49d97db6b)
+
+[Build an App with Express and Handlebars](https://stackabuse.com/guide-to-handlebars-templating-engine-for-node/)
